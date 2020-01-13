@@ -1,0 +1,144 @@
+F:\C#\Mywork\lateFeeCalcPart1\lateFeeCalcPart1\bin\Debug\lateFeeCalcPart1.exe.config
+F:\C#\Mywork\lateFeeCalcPart1\lateFeeCalcPart1\bin\Debug\lateFeeCalcPart1.exe
+F:\C#\Mywork\lateFeeCalcPart1\lateFeeCalcPart1\bin\Debug\lateFeeCalcPart1.pdb
+F:\C#\Mywork\lateFeeCalcPart1\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.csprojResolveAssemblyReference.cache
+F:\C#\Mywork\lateFeeCalcPart1\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.frmMenu.resources
+F:\C#\Mywork\lateFeeCalcPart1\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.frmNewReleases.resources
+F:\C#\Mywork\lateFeeCalcPart1\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.KidsMovies.resources
+F:\C#\Mywork\lateFeeCalcPart1\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.LibraryMovies.resources
+F:\C#\Mywork\lateFeeCalcPart1\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.Properties.Resources.resources
+F:\C#\Mywork\lateFeeCalcPart1\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.csproj.GenerateResource.Cache
+F:\C#\Mywork\lateFeeCalcPart1\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.exe
+F:\C#\Mywork\lateFeeCalcPart1\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.pdb
+F:\Semester 2\C#\Project\lateFeeCalcPart1\lateFeeCalcPart1\bin\Debug\lateFeeCalcPart1.exe.config
+F:\Semester 2\C#\Project\lateFeeCalcPart1\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.exe
+F:\Semester 2\C#\Project\lateFeeCalcPart1\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.pdb
+F:\Semester 2\C#\Project\lateFeeCalcPart1\lateFeeCalcPart1\bin\Debug\lateFeeCalcPart1.exe
+F:\Semester 2\C#\Project\lateFeeCalcPart1\lateFeeCalcPart1\bin\Debug\lateFeeCalcPart1.pdb
+F:\Semester 2\C#\Project\lateFeeCalcPart1\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.csprojResolveAssemblyReference.cache
+F:\Semester 2\C#\Project\lateFeeCalcPart1\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.frmMenu.resources
+F:\Semester 2\C#\Project\lateFeeCalcPart1\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.frmNewReleases.resources
+F:\Semester 2\C#\Project\lateFeeCalcPart1\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.frmKidsMovies.resources
+F:\Semester 2\C#\Project\lateFeeCalcPart1\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.frmLibraryMovies.resources
+F:\Semester 2\C#\Project\lateFeeCalcPart1\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.Properties.Resources.resources
+F:\Semester 2\C#\Project\lateFeeCalcPart1\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.csproj.GenerateResource.Cache
+D:\D2L\lateFeeCalcPart1\lateFeeCalcPart1\bin\Debug\lateFeeCalcPart1.exe.config
+D:\D2L\lateFeeCalcPart1\lateFeeCalcPart1\bin\Debug\lateFeeCalcPart1.exe
+D:\D2L\lateFeeCalcPart1\lateFeeCalcPart1\bin\Debug\lateFeeCalcPart1.pdb
+D:\D2L\lateFeeCalcPart1\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.csprojAssemblyReference.cache
+D:\D2L\lateFeeCalcPart1\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.Properties.Resources.resources
+D:\D2L\lateFeeCalcPart1\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.csproj.GenerateResource.cache
+D:\D2L\lateFeeCalcPart1\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.csproj.CoreCompileInputs.cache
+D:\D2L\lateFeeCalcPart1\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.exe
+D:\D2L\lateFeeCalcPart1\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.pdb
+D:\D2L\lateFeeCalcPart1\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.frmMain.resources
+D:\D2L\lateFeeCalcPart1\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.frmNew.resources
+D:\D2L\lateFeeCalcPart1\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.frmKids.resources
+D:\D2L\lateFeeCalcPart1\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.frmLibrary.resources
+F:\Semester 2\C#\Project\lateFeeCalcPart1_c0754947\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\bin\Debug\lateFeeCalcPart1.exe.config
+F:\Semester 2\C#\Project\lateFeeCalcPart1_c0754947\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.exe
+F:\Semester 2\C#\Project\lateFeeCalcPart1_c0754947\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.pdb
+F:\Semester 2\C#\Project\lateFeeCalcPart1_c0754947\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\bin\Debug\lateFeeCalcPart1.exe
+F:\Semester 2\C#\Project\lateFeeCalcPart1_c0754947\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\bin\Debug\lateFeeCalcPart1.pdb
+F:\Semester 2\C#\Project\lateFeeCalcPart1_c0754947\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.csprojResolveAssemblyReference.cache
+F:\Semester 2\C#\Project\lateFeeCalcPart1_c0754947\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.frmMain.resources
+F:\Semester 2\C#\Project\lateFeeCalcPart1_c0754947\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.frmNew.resources
+F:\Semester 2\C#\Project\lateFeeCalcPart1_c0754947\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.frmKids.resources
+F:\Semester 2\C#\Project\lateFeeCalcPart1_c0754947\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.frmLibrary.resources
+F:\Semester 2\C#\Project\lateFeeCalcPart1_c0754947\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.Properties.Resources.resources
+F:\Semester 2\C#\Project\lateFeeCalcPart1_c0754947\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.csproj.GenerateResource.Cache
+D:\D2L\lateFeeCalcPart1_c0754947\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\bin\Debug\lateFeeCalcPart1.exe.config
+D:\D2L\lateFeeCalcPart1_c0754947\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\bin\Debug\lateFeeCalcPart1.exe
+D:\D2L\lateFeeCalcPart1_c0754947\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\bin\Debug\lateFeeCalcPart1.pdb
+D:\D2L\lateFeeCalcPart1_c0754947\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.csprojAssemblyReference.cache
+D:\D2L\lateFeeCalcPart1_c0754947\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.frmMain.resources
+D:\D2L\lateFeeCalcPart1_c0754947\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.frmNew.resources
+D:\D2L\lateFeeCalcPart1_c0754947\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.frmKids.resources
+D:\D2L\lateFeeCalcPart1_c0754947\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.frmLibrary.resources
+D:\D2L\lateFeeCalcPart1_c0754947\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.Properties.Resources.resources
+D:\D2L\lateFeeCalcPart1_c0754947\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.csproj.GenerateResource.cache
+D:\D2L\lateFeeCalcPart1_c0754947\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.csproj.CoreCompileInputs.cache
+D:\D2L\lateFeeCalcPart1_c0754947\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.exe
+D:\D2L\lateFeeCalcPart1_c0754947\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.pdb
+C:\Users\BhAnAv\Desktop\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.csprojAssemblyReference.cache
+C:\Users\BhAnAv\Desktop\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.frmMain.resources
+C:\Users\BhAnAv\Desktop\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.frmNew.resources
+C:\Users\BhAnAv\Desktop\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.frmKids.resources
+C:\Users\BhAnAv\Desktop\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.frmLibrary.resources
+C:\Users\BhAnAv\Desktop\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.Properties.Resources.resources
+C:\Users\BhAnAv\Desktop\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.csproj.GenerateResource.cache
+C:\Users\BhAnAv\Desktop\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.csproj.CoreCompileInputs.cache
+C:\Users\BhAnAv\Desktop\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.exe
+C:\Users\BhAnAv\Desktop\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.pdb
+C:\Users\BhAnAv\Desktop\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\bin\Debug\lateFeeCalcPart1.exe.config
+C:\Users\BhAnAv\Desktop\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\bin\Debug\lateFeeCalcPart1.exe
+C:\Users\BhAnAv\Desktop\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\bin\Debug\lateFeeCalcPart1.pdb
+F:\Semester 2\C#\lateFeeCalcPart1_c0754947\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\bin\Debug\lateFeeCalcPart1.exe.config
+F:\Semester 2\C#\lateFeeCalcPart1_c0754947\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.exe
+F:\Semester 2\C#\lateFeeCalcPart1_c0754947\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.pdb
+F:\Semester 2\C#\lateFeeCalcPart1_c0754947\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.csprojResolveAssemblyReference.cache
+F:\Semester 2\C#\lateFeeCalcPart1_c0754947\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.frmLateFilms.resources
+F:\Semester 2\C#\lateFeeCalcPart1_c0754947\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.frmMain.resources
+F:\Semester 2\C#\lateFeeCalcPart1_c0754947\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.frmNew.resources
+F:\Semester 2\C#\lateFeeCalcPart1_c0754947\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.frmKids.resources
+F:\Semester 2\C#\lateFeeCalcPart1_c0754947\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.frmLibrary.resources
+F:\Semester 2\C#\lateFeeCalcPart1_c0754947\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.Properties.Resources.resources
+F:\Semester 2\C#\lateFeeCalcPart1_c0754947\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.csproj.GenerateResource.Cache
+D:\D2L\New folder (3)\lateFeeCalcPart1_c0754947\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.csprojAssemblyReference.cache
+D:\D2L\New folder (3)\lateFeeCalcPart1_c0754947\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.frmLateFilms.resources
+D:\D2L\New folder (3)\lateFeeCalcPart1_c0754947\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.frmMain.resources
+D:\D2L\New folder (3)\lateFeeCalcPart1_c0754947\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.frmNew.resources
+D:\D2L\New folder (3)\lateFeeCalcPart1_c0754947\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.frmKids.resources
+D:\D2L\New folder (3)\lateFeeCalcPart1_c0754947\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.frmLibrary.resources
+D:\D2L\New folder (3)\lateFeeCalcPart1_c0754947\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.Properties.Resources.resources
+D:\D2L\New folder (3)\lateFeeCalcPart1_c0754947\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.csproj.GenerateResource.cache
+D:\D2L\New folder (3)\lateFeeCalcPart1_c0754947\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.csproj.CoreCompileInputs.cache
+D:\D2L\New folder (3)\lateFeeCalcPart1_c0754947\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.exe
+D:\D2L\New folder (3)\lateFeeCalcPart1_c0754947\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.pdb
+D:\D2L\New folder (3)\lateFeeCalcPart1_c0754947\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\bin\Debug\lateFeeCalcPart1.exe.config
+D:\D2L\New folder (3)\lateFeeCalcPart1_c0754947\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\bin\Debug\lateFeeCalcPart1.exe
+D:\D2L\New folder (3)\lateFeeCalcPart1_c0754947\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\bin\Debug\lateFeeCalcPart1.pdb
+C:\Users\c0754947\Downloads\lateFeeCalcPart1_c0754947\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\bin\Debug\lateFeeCalcPart1.exe.config
+C:\Users\c0754947\Downloads\lateFeeCalcPart1_c0754947\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.exe
+C:\Users\c0754947\Downloads\lateFeeCalcPart1_c0754947\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.pdb
+C:\Users\c0754947\Downloads\lateFeeCalcPart1_c0754947\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\bin\Debug\lateFeeCalcPart1.exe
+C:\Users\c0754947\Downloads\lateFeeCalcPart1_c0754947\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\bin\Debug\lateFeeCalcPart1.pdb
+C:\Users\c0754947\Downloads\lateFeeCalcPart1_c0754947\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.csprojResolveAssemblyReference.cache
+C:\Users\c0754947\Downloads\lateFeeCalcPart1_c0754947\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.frmLateFilms.resources
+C:\Users\c0754947\Downloads\lateFeeCalcPart1_c0754947\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.frmMain.resources
+C:\Users\c0754947\Downloads\lateFeeCalcPart1_c0754947\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.frmNew.resources
+C:\Users\c0754947\Downloads\lateFeeCalcPart1_c0754947\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.frmKids.resources
+C:\Users\c0754947\Downloads\lateFeeCalcPart1_c0754947\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.frmLibrary.resources
+C:\Users\c0754947\Downloads\lateFeeCalcPart1_c0754947\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.Properties.Resources.resources
+C:\Users\c0754947\Downloads\lateFeeCalcPart1_c0754947\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.csproj.GenerateResource.Cache
+F:\finalC#\lateFeeCalcPart1_c0754947\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\bin\Debug\lateFeeCalcPart1.exe.config
+F:\finalC#\lateFeeCalcPart1_c0754947\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.exe
+F:\finalC#\lateFeeCalcPart1_c0754947\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.pdb
+F:\finalC#\lateFeeCalcPart1_c0754947\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\bin\Debug\lateFeeCalcPart1.exe
+F:\finalC#\lateFeeCalcPart1_c0754947\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\bin\Debug\lateFeeCalcPart1.pdb
+F:\finalC#\lateFeeCalcPart1_c0754947\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.csprojResolveAssemblyReference.cache
+F:\finalC#\lateFeeCalcPart1_c0754947\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.frmLateFilms.resources
+F:\finalC#\lateFeeCalcPart1_c0754947\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.frmMain.resources
+F:\finalC#\lateFeeCalcPart1_c0754947\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.frmNew.resources
+F:\finalC#\lateFeeCalcPart1_c0754947\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.frmKids.resources
+F:\finalC#\lateFeeCalcPart1_c0754947\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.frmLibrary.resources
+F:\finalC#\lateFeeCalcPart1_c0754947\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.Properties.Resources.resources
+F:\finalC#\lateFeeCalcPart1_c0754947\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.csproj.GenerateResource.Cache
+F:\finalC#\lateFeeCalcPart1_c0754947\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.frmNewMovie.resources
+F:\finalC#\lateFeeCalcPart1_c0754947\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.frmRentalMain.resources
+D:\D2L\finalC#\lateFeeCalcPart1_c0754947\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\bin\Debug\lateFeeCalcPart1.exe.config
+D:\D2L\finalC#\lateFeeCalcPart1_c0754947\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\bin\Debug\lateFeeCalcPart1.exe
+D:\D2L\finalC#\lateFeeCalcPart1_c0754947\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\bin\Debug\lateFeeCalcPart1.pdb
+D:\D2L\finalC#\lateFeeCalcPart1_c0754947\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.csprojAssemblyReference.cache
+D:\D2L\finalC#\lateFeeCalcPart1_c0754947\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.frmLateFilms.resources
+D:\D2L\finalC#\lateFeeCalcPart1_c0754947\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.frmMain.resources
+D:\D2L\finalC#\lateFeeCalcPart1_c0754947\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.frmNew.resources
+D:\D2L\finalC#\lateFeeCalcPart1_c0754947\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.frmKids.resources
+D:\D2L\finalC#\lateFeeCalcPart1_c0754947\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.frmLibrary.resources
+D:\D2L\finalC#\lateFeeCalcPart1_c0754947\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.frmNewMovie.resources
+D:\D2L\finalC#\lateFeeCalcPart1_c0754947\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.frmRentalMain.resources
+D:\D2L\finalC#\lateFeeCalcPart1_c0754947\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.Properties.Resources.resources
+D:\D2L\finalC#\lateFeeCalcPart1_c0754947\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.csproj.GenerateResource.cache
+D:\D2L\finalC#\lateFeeCalcPart1_c0754947\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.csproj.CoreCompileInputs.cache
+D:\D2L\finalC#\lateFeeCalcPart1_c0754947\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.exe
+D:\D2L\finalC#\lateFeeCalcPart1_c0754947\lateFeeCalcPart1_c0754947\lateFeeCalcPart1\obj\Debug\lateFeeCalcPart1.pdb

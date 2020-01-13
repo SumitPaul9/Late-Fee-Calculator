@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Movies>
+    <Movie>
+        <MovieNo>1138</MovieNo>
+        <Description>Star Wars</Description>
+        <Rating>PG-13</Rating>
+    </Movie>
+    <Movie>
+        <MovieNo>5</MovieNo>
+        <Description>Star Wars: The Empire Strikes Back</Description>
+        <Rating>PG-13</Rating>
+    </Movie>
+    <Movie>
+        <MovieNo>6</MovieNo>
+        <Description>Star Wars: Return of the Jedi</Description>
+        <Rating>PG</Rating>
+    </Movie>
+    <Movie>
+        <MovieNo>24601</MovieNo>
+        <Description>Les Miserables</Description>
+        <Rating>R</Rating>
+    </Movie>
+</Movies>
